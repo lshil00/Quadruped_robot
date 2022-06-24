@@ -1,2 +1,9 @@
 # Quadruped_robot
-a 12-DOF quadruped robot design
+> 舵机驱动的12自由度四足机器人设计
+
+<img src="README.assets/三维渲染图2.jpg" alt="三维渲染图2" style="zoom: 25%;" />
+
+## 
+
+
+
