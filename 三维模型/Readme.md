@@ -5,16 +5,16 @@
 
   原模型（Solidworks 2019）下载链接：https://pan.baidu.com/s/1EVniczHE6NO68WBZ6jarPw 提取码：nt8v
 
-  <img src="Readme.assets/image-20220624124531218.png" alt="image-20220624124531218" style="zoom: 33%;" />
+  <img src="Readme.assets/image-20220624124531218.png" alt="image-20220624124531218" style="zoom: 20%;" />
 
 - 此外，以下为成本更低的迭代版本，但整机性能有所下降。
 
   - SCS0009舵机版模型，单个舵机价格约为38元，Solidworks 2019版本下载链接：https://pan.baidu.com/s/1cAEqWpKtOTWmSGVl0khZVw 提取码：w0jo
 
-    <img src="Readme.assets/image-20220624124049810.png" alt="image-20220624124049810" style="zoom:50%;" />
+    <img src="Readme.assets/image-20220624124049810.png" alt="image-20220624124049810" style="zoom: 25%;" />
 
     
 
   - mg90s舵机版模型，单个舵机价格约为10元，Solidworks 2019版本下载链接：https://pan.baidu.com/s/1UsPqu-OiglWM5PlEbBo1Vw 提取码：l3h5
 
-    <img src="Readme.assets/image-20220624124215790.png" alt="image-20220624124215790" style="zoom:50%;" />
+    <img src="Readme.assets/image-20220624124215790.png" alt="image-20220624124215790" style="zoom: 25%;" />
